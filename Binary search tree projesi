@@ -1,0 +1,5 @@
+[7, 5, 1, 8, 3, 6, 0, 9, 4, 2] dizisinin Binary-Search-Tree aşamalarını yazınız.
+Root=5
+5'in solunda= 4, 3, 2, 1, 0 bulunur.
+5'in sağında= 6,7,8,9 bulunur.
+Dengeli dağılım olduğu için average case olur. O(logn)
